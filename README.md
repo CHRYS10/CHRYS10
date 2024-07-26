@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Christen Malloy (@CHRYS10) (she/her). I'm a senior at the University of Colorado Boulder (CU Boulder). I am graduating in Spring 2022 with a major in Computer Science (BA) and a Minor in Mathematics.
-- 👀 I’m interested in Virtual and Augmented Reality (VR/AR/XR) development and research in Unity, mathematics, and writing and learning how to code in many languages!
-- 🌱 I’m currently learning 3D User Interface Design (3D UI/UX), Artificial Intelligence (AI), company startup formation for New Venture Challenge (NVC) at CU Boulder.
-- 📫 How to reach me: You can contact me by:
-  - email: christen.malloy@colorado.edu 
-  - LinkedIn page: https://www.linkedin.com/feed/
+- 👋 Hi, I’m Christen Malloy (@CHRYS10) (she/her). Graduate of the University of Colorado Boulder (CU Boulder) '22 with degrees in Computer Science and Mathematics. 
+- I'm currently working in industry as a cybersecurity specialist relating to Product Security, including Information Assurance (IA) and cybersecurity best practices for Operating Systems (OS), Cloud and development CI/CD pipeline evnrionments.
+
+**Current certifications:**
+- CompTia Security+ CE (IAT level II)
+- Linux Foundation Certified Kubernetes Administrator (CKA)
+
+**Certifications in Progress:**
+- Linux Foundation Certified Kurbernetes Security Specialist (CKS) - In prgoress, learning path completed uncertified
+- ISC2 Certified Information Systems Security Professional (CISSP) - In progress
+  
+- 📫 **How to reach me: You can contact me by:**
+  - email: christen.malloy@gmail.com 
+  - LinkedIn page: https://www.linkedin.com/in/christen-malloy-2b613720/
 

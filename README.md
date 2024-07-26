@@ -1,3 +1,4 @@
+**About me:**
 - 👋 Hi, I’m Christen Malloy (@CHRYS10) (she/her). Graduate of the University of Colorado Boulder (CU Boulder) '22 with degrees in Computer Science and Mathematics. 
 - I'm currently working in industry as a cybersecurity specialist relating to Product Security, including Information Assurance (IA) and cybersecurity best practices for Operating Systems (OS), Cloud and development CI/CD pipeline evnrionments.
 
